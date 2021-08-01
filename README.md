@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdLaura
+- 👋 Hi, I’m @Edlaura
 - 👀 I’m interested in chatbot development and UX/UI DESIGN
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me edlauraeiry@gmail.com
